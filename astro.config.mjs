@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: 'https://lemusdc.github.io', // en minúsculas
+  site: 'https://lemusdc.github.io',
   vite: {
     plugins: [tailwindcss()],
   },
