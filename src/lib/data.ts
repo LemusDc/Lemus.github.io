@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  name: "Diego Rodriguez Lemus",
+  location: "Bogota - Colombia",
+  email: "dcrodriguezl@unbosque.edu.co",
+  github: "https://github.com/LemusDc",
+  linkedin: "",
   profilePicture: "/profile.jpeg",
   heroDescription:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
