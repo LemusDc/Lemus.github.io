@@ -120,10 +120,19 @@ export default function HeroSection() {
 
         <MotionWrapper>
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
-            <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
+            <div className="relative pl-4 py-2 mb-4">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              {personalInfo.heroDescription}
-            </p>
+              <div className="aspect-video w-full rounded-lg overflow-hidden shadow-lg border border-purple-500/30">
+              <iframe
+              className="w-full h-full"
+              src="https://www.youtube.com/watch?v=LxOTsiV4tkQ&list=RDLxOTsiV4tkQ&start_radio=1"
+              title="Description"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              ></iframe>
+              </div>
+              </div>
           </div>
         </MotionWrapper>
       </div>
