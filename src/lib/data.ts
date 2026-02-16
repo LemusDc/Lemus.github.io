@@ -6,7 +6,7 @@ export const personalInfo = {
   linkedin: "https://co.linkedin.com/",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "",
+    "👨‍💻 Estudiante de Ingeniería en la Universidad El Bosque con 6 años de experiencia en seguridad informática y conocimientos en desarrollo web. Apasionado por la tecnología, la ciberseguridad y la creación de soluciones digitales seguras.",
 };
 
 export const workExperience = [
