@@ -41,7 +41,7 @@ export default function HeroSection() {
               variants={childVariants}
             >
               {personalInfo.name}{" "}
-              <span className="inline-block animate-pulse>💻</span>
+              <span className="inline-block animate-pulse">💻</span>
             </motion.h1>
 
             <motion.p
@@ -85,7 +85,7 @@ export default function HeroSection() {
                 <Github className="h-4 w-4 mr-2" />
                 🌟 GitHub
               </motion.a>
-              
+
             </motion.div>
           </div>
 
