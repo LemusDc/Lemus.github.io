@@ -86,7 +86,7 @@ export const projects = [
   },
 ];
 
-export const Award = [
+export const Awards = [
   {
     name: "Lorem Ipsum Award",
     issuer: "Lorem Organization",
