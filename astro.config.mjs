@@ -1,16 +1,12 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import tailwindcss from "@tailwindcss/vite";
-
 import react from "@astrojs/react";
 
-  
 export default defineConfig({
-  site: 'https://Lemus.github.io',
-  base: 'mi-repo',
+  site: 'https://lemusdc.github.io', // en minúsculas
   vite: {
-      plugins: [tailwindcss()],
+    plugins: [tailwindcss()],
   },
-
-  integrations: [react()]
+  integrations: [react()],
 });
