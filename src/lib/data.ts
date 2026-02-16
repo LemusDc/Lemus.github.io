@@ -3,7 +3,6 @@ export const personalInfo = {
   location: "Bogota - Colombia",
   email: "dcrodriguezl@unbosque.edu.co",
   github: "https://github.com/LemusDc",
-  linkedin: "https://co.linkedin.com/",
   profilePicture: "/profile.jpeg",
   heroDescription:
     "👨‍💻Engineering student at El Bosque University with 6 years of experience in cybersecurity and web development. Passionate about technology, cybersecurity, and creating secure digital solutions.",
