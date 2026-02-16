@@ -85,34 +85,3 @@ export const projects = [
     ],
   },
 ];
-
-export const evidence = [
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-];
