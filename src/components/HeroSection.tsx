@@ -41,7 +41,7 @@ export default function HeroSection() {
               variants={childVariants}
             >
               {personalInfo.name}{" "}
-              <span className="inline-block animate-ping">💻</span>
+              <span className="inline-block animate-ping duration: 1.5">💻</span>
             </motion.h1>
 
             <motion.p
