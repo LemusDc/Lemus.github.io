@@ -61,7 +61,7 @@ export const skills = {
   ],
 };
 
-export const projects = [
+export const evidence = [
   {
     title: "Lorem Ipsum Project",
     github: "https://github.com/loremipsum/project",
