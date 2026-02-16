@@ -125,7 +125,7 @@ export default function HeroSection() {
               <div className="aspect-video w-full rounded-lg overflow-hidden shadow-lg border border-purple-500/30">
               <iframe
               className="w-full h-full"
-              src="https://youtu.be/wpoTiAZm3DQ"
+              src="https://www.youtube.com/embed/LxOTsiV4tkQ"
               title="Description"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
