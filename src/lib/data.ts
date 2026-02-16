@@ -86,7 +86,7 @@ export const projects = [
   },
 ];
 
-export const Evidences = [
+export const Award = [
   {
     name: "Lorem Ipsum Award",
     issuer: "Lorem Organization",
