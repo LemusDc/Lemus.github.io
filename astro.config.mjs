@@ -4,8 +4,10 @@ import tailwindcss from "@tailwindcss/vite";
 
 import react from "@astrojs/react";
 
-// https://astro.build/config
+  
 export default defineConfig({
+  site: 'https://Lemus.github.io',
+  base: 'mi-repo',
   vite: {
       plugins: [tailwindcss()],
   },
