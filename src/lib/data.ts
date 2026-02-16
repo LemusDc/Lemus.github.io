@@ -3,7 +3,7 @@ export const personalInfo = {
   location: "Bogota - Colombia",
   email: "dcrodriguezl@unbosque.edu.co",
   github: "https://github.com/LemusDc",
-  linkedin: "",
+  linkedin: "https://co.linkedin.com/",
   profilePicture: "/profile.jpeg",
   heroDescription:
     "",
