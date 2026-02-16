@@ -63,25 +63,31 @@ export const skills = {
 
 export const evidence = [
   {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
+    title: "SQL ",
+    github: "https://github.com/",
     description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
+      "Coming soon...",
     ],
   },
   {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
+    title: "PL/SQL Scripts",
+    github: "https://github.com/",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Coming soon...",
+    ],
+  },
+  {
+    title: "NoSQL",
+    github: "https://github.com/",
+    description: [
+      "Coming soon...",
+    ],
+  },
+  {
+    title: "Proyecto",
+    github: "https://github.com/",
+    description: [
+      "Coming soon...",
     ],
   },
 ];
